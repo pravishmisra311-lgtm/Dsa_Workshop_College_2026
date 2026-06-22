@@ -1,6 +1,6 @@
 package day6;
 
-class Node {
+class Node{
     int data;
     Node next;
 
@@ -35,6 +35,7 @@ public class LinkedList{
         list.addFirst(10);
 
         list.display();
+
     }
 }
 
